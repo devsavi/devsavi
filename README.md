@@ -1,7 +1,7 @@
 <!-- Banner (Optional) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/Z8a6B5N.png" width="100%" alt="Banner">
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Savindu Weththasinghe</span> (Savi)</h1>
 
