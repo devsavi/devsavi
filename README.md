@@ -51,7 +51,8 @@ I focus on:
 
 <p align="center">
  <img height="170" src="https://github-stats-alpha.vercel.app/api?username=devsavi&show_icons=true&theme=radical" />
- <img height="170" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=devsavi&layout=compact&theme=radical" />
+ <img height="170" src="[https://github-stats-alpha.vercel.app/api/top-langs/?username=devsavi&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=devsavi&layout=compact&theme=tokyonight
+)" />
 </p>
 
 <p align="center">
