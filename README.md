@@ -74,9 +74,9 @@ I focus on:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Multilingual POS System** | Fully functional POS app with Firebase | Flutter / Dart / Firebase |
-| **Virtual Chemistry Lab** | Unity-based VR/AR-like chemistry experiments | Unity / C# |
-| **Real-time Ticketing System** | CLI + GUI system using concurrency & multithreading | Java / JavaFX |
+| **Multilingual POS System** | Fully functional POS app with Firebase | NextJS / Firebase |
+| **Virtual Chemistry Lab** | Unity-based chemistry experiments | Unity / C# |
+| **Real-time Ticketing System** | CLI + GUI system using concurrency & multithreading | Java / SpringBoot / React |
 | **Storage Management System** | Admin + User dashboards for stock management | Next.js / PostgreSQL |
 | **Travel Shop Platform** | Online travel product shopping system | React / Node.js / Firebase |
 
