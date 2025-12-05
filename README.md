@@ -58,10 +58,6 @@ I focus on:
   <img src="https://github-activity-graph.vercel.app/graph?username=devsavi&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devsavi&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
