@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/Z8a6B5N.png" width="100%" alt="Banner">
 </p> -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Savindu Weththasinghe</span> (Savi)</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Savindu Weththasinghe</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Flutter+%7C+React+%7C+Next.js;Firebase+%7C+PostgreSQL+%7C+MySQL;Always+Learning+%26+Building&center=true&width=650&height=45" />
